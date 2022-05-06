@@ -1,0 +1,26 @@
+.from {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to bottom right, #f5e3e6, #d9e4f5);
+    /* display: flex;
+  flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.field {
+width: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+    /* margin: 10px; */
+}
+
+/* Button {
+    width: 100px;
+    height: auto;
+    background-color: rgb(67, 153, 40);
+    color: rgb(255, 255, 255);
+    text-align: center;
+} */

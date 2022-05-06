@@ -1,0 +1,40 @@
+.body{
+    background-image: linear-gradient(to bottom right, #f5e3e6, #d9e4f5);
+    color: white;
+    min-height: 100vh;
+    scroll-behavior: smooth;
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.Buttonstyle{
+    /* margin-top: 5px; */
+    text-align: right;
+}
+
+
+.span-detail{
+    border-radius: 2rem;
+    color: aliceblue;
+    display: inline-block;
+    width: 150px;
+    border: 1px solid #efefef;
+    background-color: #000000;
+    text-align: center;
+}
+.box-1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.box-2{
+    flex:1 1 0%;
+    height: 200px;
+    /* margin:10px 0px; */
+    /* padding: 10px 0px; */
+}
+.boxImg{
+    height: 80%; 
+    cursor: pointer;
+}

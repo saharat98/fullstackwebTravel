@@ -1,0 +1,22 @@
+.Navbar{
+    background-color: #eec5cb;
+    height: 80px;
+    display: flex;
+    font-size: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    justify-content: center;
+}
+.textStyle {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: none;
+    text-align: center;
+}
